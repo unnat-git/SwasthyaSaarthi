@@ -1,0 +1,21 @@
+{
+  "short_name": "RuralHealthAI",
+  "name": "AI-Powered Early Disease Risk Prediction & Rural Health Access Platform",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#faf8f5",
+  "theme_color": "#008080",
+  "display": "standalone",
+  "orientation": "any"
+}
